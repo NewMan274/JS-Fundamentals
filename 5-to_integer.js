@@ -7,6 +7,6 @@ function numberConverter(param) {
     console.log("Not a number")
 };
 
-console.log(myNumber[0])
-console.log(myNumber[1])
-console.log(myNumber[2])
+console.log(numberConverter(myNumber[0]))
+console.log(numberConverter(myNumber[1]))
+console.log(numberConverter(myNumber[2]))
