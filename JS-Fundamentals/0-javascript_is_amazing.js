@@ -1,7 +1,7 @@
 const myVar = "JavaScript is amazing"
 
 function printing() {
-  console.log(myVar);
+  alert(myVar);
 };
 
-printing();
+console.log(printing);
