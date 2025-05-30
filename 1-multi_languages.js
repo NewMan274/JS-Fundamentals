@@ -1,11 +1,10 @@
-const myVar0  = "JavaScript is amazing"; 
-const myVar1 =  "Python is cool";
-const myVar2 =  "JavaScript is amazing";
+const myVar = ["C is fun", "Python is cool", "JavaScript is amazing"] 
+
 
 function printing() {
-  console.log(myVar0)
-  console.log(myVar1)
-  console.log(myVar2)
+  console.log(myVar[0]);
+  console.log(myVar[1]);
+  console.log(myVar[2]);
 };
 
 printing();
