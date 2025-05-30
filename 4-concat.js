@@ -1,4 +1,4 @@
-const myVar0 = "what";
-const myVar1 = "who";
+const myVar0 = "Python";
+const myVar1 = "fun";
 
 console.log(`${myVar0} is ${myVar1}`);
